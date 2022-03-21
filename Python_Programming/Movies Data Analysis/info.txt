@@ -1,0 +1,7 @@
+Jupyter notebook used to conduct basic analysis on a small dataset regarding movie ticket sale in Hollywood. 
+Use of Packages such as Pandas, Seaborn etc. 
+The analysis will show the impact of corona virus in the movie industry as well as calculates a good ticket price capable of making more sales etc.
+
+
+Note: Open file in Jupyter notebook for best results
+

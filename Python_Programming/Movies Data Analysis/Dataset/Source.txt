@@ -1,0 +1,25 @@
+This is a publicly available data set hosted on www.Kaggle.com by John Harshith
+https://www.kaggle.com/johnharshith/hollywood-theatrical-market-synopsis-1995-to-2021/version/2?select=TopGrossingSources.csv
+
+License
+CC BY-NC-SA 4.0
+
+
+Context
+This Dataset contains the data of market analysis built on The Numbers unique categorization system, which uses 6 different criteria to identify a movie.
+All movies released since 1995 are categorized according to the following attributes: Creative type (factual, contemporary fiction, fantasy etc.), Source (book, play, original screenplay etc.), 
+Genre (drama, horror, documentary etc.), MPAA rating, Production method (live action, digital animation etc.) and Distributor. In order to provide a fair comparison between movies released in different years, 
+all rankings are based on ticket sales, which are calculated using average ticket prices announced by the MPAA in their annual state of the industry report.
+
+Content
+The Dataset contains various files illustrating statistics on annual ticket sales.
+
+Acknowledgements
+The data was obtained from The Numbers website. 
+Their theatrical market pages are based on the domestic theatrical market performance only. 
+The domestic market is defined as the North American movie region (consisting of the United States, Canada, Puerto Rico and Guam). 
+This data can be found from the website https://www.the-numbers.com/market/ with detailed analysis.
+
+Inspiration
+2020 and 2021 have been rough years for the movie industry, and being a huge movie fanatic inspired me to share a dataset showing the exponential growth of box office collections as well as ticket sales over time (and the decline after 2020 due to the Covid-19 pandemic) indirectly indicating the quality of modern day films. 
+This Dataset can also be used to study the genres which attract audience the most and encourage one to create an amazing genre specific plot in order to take one step closer to becoming the next most successful director!

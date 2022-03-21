@@ -1,0 +1,5 @@
+1) File: Annual tickets sale
+
+	Inflation prices of BOX OFFICE has been adjusted to prices as per 2021 using [ https://www.usinflationcalculator.com/ ]
+
+	A new coloumn has been added for avg ticket price considering inflation prices as per 2021 using the same website [ https://www.usinflationcalculator.com/ ]
