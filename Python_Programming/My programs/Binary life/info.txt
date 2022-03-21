@@ -1,0 +1,16 @@
+Binary Life is an interesting small script that focuses on using randomness to generate a simulation.
+We can tweak some of its parameters to generate different outcomes.
+
+The idea starts simple and gains complexity with additional functions introduced: a binary defined as “X1” travels through the NumPy matrix in search of food. 
+the food is represented by “F” and a number that represents how much food is available at that particular point (example:” F23”). 
+As our binary travels through the matrix, it loses health and needs food to replenish lost health. 
+If binary has exceeding amount of health, then it stays at the point taking rest for a few seconds. 
+As food is generated randomly there is possibility of more or less food being generated alike. 
+If our binary manages to survive a certain amount of time it evolves and gains additional health. 
+During the search process random incidents may also happen those effects our binaries health. 
+
+Our output will show the binary travelling through the matrix and incidents occurring as it moves. 
+Finally, our result will be produced on how long the binary survived and how much it has evolved.
+
+
+Comments are made in code for reference. Additional functions can be added that would make much more impact and introduced wider scenarios in the Binaries life.

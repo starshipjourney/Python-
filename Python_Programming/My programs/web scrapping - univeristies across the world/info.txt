@@ -1,0 +1,5 @@
+An example of using python to perform Web scrapping. We have used selenium package for this task.
+
+Here we will scrap data from website : https://www.4icu.org/ 
+We are scrapping data regarding Universities across the world with their ranking, contact details, features etc.
+All scraped data is in csv format and is placed under scrapped data folder. 

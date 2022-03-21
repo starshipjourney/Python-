@@ -1,0 +1,2 @@
+These are a few sample scripts created while studying python and Data structures.
+Book reference for studying Data structures : grokking algorithms 

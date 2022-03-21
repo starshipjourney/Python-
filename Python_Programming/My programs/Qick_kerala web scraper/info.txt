@@ -1,0 +1,5 @@
+This is a scrapping example that performs scrapping on a much more complex website.
+The goal is to get as much company details as possible regarding mobile phone dealers and service providers.
+
+We use Selenium package and python for this task.
+Website used to scrap : https://www.quickerala.com/

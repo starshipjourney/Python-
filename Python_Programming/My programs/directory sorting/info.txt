@@ -1,0 +1,4 @@
+This program will sort a directory of choice by making sure every file is placed under a folder that represents the files extention.
+example: all .pdf files will be kept inside a PDF folder created in the choosen directory. 
+
+Note: The program was only tested in Linux OS

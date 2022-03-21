@@ -1,0 +1,3 @@
+This program will return the System details of your particular computer.
+
+Note: only tested in Linux
